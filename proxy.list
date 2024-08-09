@@ -1,6 +1,6 @@
 # NAME: Proxy
 # REPO: https://github.com/Nurullaev/vpn
-# UPDATED: 2024-04-01 15:55:55
+# UPDATED: 2024-08-09 15:55:55
 DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,aol.com
@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,booktracker.org
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,lnkd.in
+DOMAIN-SUFFIX,maxmind.com
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,netflix.com
@@ -57,4 +58,6 @@ DOMAIN-SUFFIX,twtkr.com
 DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,x.com
 DOMAIN-KEYWORD,instagram
